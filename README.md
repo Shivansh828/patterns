@@ -1,0 +1,2 @@
+# patterns
+IBM mini project
